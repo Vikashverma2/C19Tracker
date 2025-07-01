@@ -39,7 +39,7 @@ C19Tracker is a modern, responsive web application built with React.js that prov
 
 ## Screenshots
 
-![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi2ld012nv3z6omxH63boggG1dgE9-ByJjWm4wy2qzDv54ezRTJpfIij70cp4-LpK_Qeb0u3-_LoTBZ2NJH783FNONkZATmaM_MCVxgNpcgEsR-UChITaHerkZjxn9YwH5nAzVsTMdeCI-agHA6pBfzQgLELqQwPLE5FjsmprJGQAHGzkJV7_jRyxNvog5A)
+![App Screenshot]("https://blogger.googleusercontent.com/img/a/AVvXsEgZeBv5-78fmiDBxK3CM-paZ0r2h27oSAcl6-FP1YTMSyytgaxtqG0LUwT2_xh0R7CMPIUMlyW2tSJA75BvfoTHOvXVpSDSmvoi2V-R0rqoKWLsOyCj8UF1tWk5qM4xRZwymMfwgA-VAccJjPahTdqFzbYmwyLRCgej0NpuPPUwLuopjcKADzr3SjNhQekK")
 
 
 ## Run Locally
