@@ -23,6 +23,8 @@
 // export default HomePage;
 
 import React, { useEffect, useState } from "react";
+import StateWiseData from "./component/StateWiseData";
+import Footer from "./component/Footer";
 
 
 const HomePage = () => {
@@ -65,10 +67,12 @@ const HomePage = () => {
   })
 
   return (
-    <div className="home-page">
-      <h2>COVID-19 Status - India</h2>
+    <div className="homepage">
+      <div className="homepage-header">
+        <h2>COVID-19 Status - India</h2>
       <p>{todayDate}</p>
-      <div className="home-page-container">
+      </div>
+      <div className="homepage-container">
         <div className="active-cases">
           <p>Active Cases</p>
           <h2>{covidData.active.toLocaleString()}</h2>
@@ -90,6 +94,8 @@ const HomePage = () => {
           <h2>{covidData.todayCases.toLocaleString()}</h2>
         </div>
       </div>
+      <StateWiseData/>
+      <Footer/>
     </div>
   );
 };
